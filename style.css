@@ -95,6 +95,11 @@ body{
     color: #000000;
 }
 
+.contact-info ul li a {
+    text-decoration: none;
+    color: #000000;
+}
+
 .skills-section ul{
     padding-top: 2rem;
 }
