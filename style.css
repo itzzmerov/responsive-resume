@@ -119,6 +119,21 @@ body {
     margin-left: 20px;
 }
 
+.achievements-section ul {
+    padding-top: 2rem;
+}
+
+.achievements-section ul li {
+    padding: .4rem 0;
+    color: #000000;
+}
+
+.achievements-title {
+    color: #000000;
+    font-size: 1rem;
+    margin-left: 20px;
+}
+
 .sub-title {
     padding-top: 2rem;
     font-size: 1.2rem;
